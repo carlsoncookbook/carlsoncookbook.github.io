@@ -13,9 +13,7 @@ layout: default
         {{ post.excerpt }}
       </div>
       
-      <div class="postImg">
-        {{ post.image }}
-      </div>
+      <img src= "{{ post.image }}" width="150" height="150"/>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
