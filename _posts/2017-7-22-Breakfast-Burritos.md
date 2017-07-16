@@ -10,6 +10,8 @@ Using a communal kitchen in my dorm, I went from gathering ingredients from my r
   <p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-left: 17%; margin-right: 2%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos-unrolled.jpg?raw=true"  style="width: 100%">Evenly divide the filling.</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 17%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg?raw=true" style="width: 100%">Roll and enjoy!</p>
 
+---
+
 Servings: 2
 
 Ingredients:
