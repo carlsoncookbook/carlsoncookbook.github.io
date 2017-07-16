@@ -7,7 +7,7 @@ First of all, please pardon the cheesy name -- I made up this recipe several yea
 
 But I do assure you they are quite yummy! They're quite versatile, as simply with a different slicing technique, they can be transformed from breakfast potatoes to home fries. They're a mouth-watering side dish for any meal, any time of day (and I can personally attest that any leftovers are certainly able to be used later as a delicious snack).
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 60%; margin-right: auto; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/yummy-potatoes.jpeg?raw=true">Ready for the dinner table.<br><br></p>
+<p style="font-size: 9pt; text-align: center; width: 60%; margin-right: auto; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/yummy-potatoes.jpeg?raw=true">Ready for the dinner table.<br><br></p>
 
 <hr>
 
