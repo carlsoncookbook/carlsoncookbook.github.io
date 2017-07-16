@@ -3,7 +3,9 @@ layout: post
 title: Shrimp Toast
 ---
 
-True story -- I was so excited to eat this that I forgot to take a photograph of the final toast. Oopsies! I had it plated all nicely too; I spiraled the triangles around in a straw bread basket. But I promise this recipe is mouthwateringly delicious. I've turned it into a family tradition that we make once a year. It's simpler than a lot of other shrimp toast recipes I've seen, especially in terms of number of ingredients in the shrimp puree, but I think this balance best highlights the shrimp perched atop the crunchy fried toast. Happy cooking!
+I promise this recipe is mouthwateringly delicious. I've turned it into a family tradition that we make once a year. 
+
+It's simpler than a lot of other shrimp toast recipes I've seen, especially in terms of number of ingredients in the shrimp puree, but I think this balance best highlights the shrimp perched atop the crunchy fried toast. Happy cooking!
 
 Servings: 4 humans who really love shrimp toast
 
