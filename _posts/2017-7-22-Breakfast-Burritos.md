@@ -32,4 +32,4 @@ Directions:
 
 Note: I often wrap the burritos together in the foil, and then clean up any dishes before eating. They stay nice and warm together, and then there's nothing left to do but enjoy your tasty food afterwards! 
 
-![Burritos]({{ site.baseurl }}/images/any-time-of-day-burritos.jpg =400x400)
+<a href="url"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg" align="center" height="48" width="48" ></a>
