@@ -8,7 +8,7 @@ This recipe is very tasty, but I honestly like it most because of how easy it is
 Using a communal kitchen in my dorm, I went from gathering ingredients from my room to fully cleaned up and having a hot meal in 20 minutes. They may technically be breakfast burritos because they're filled with fluffy scrambled eggs, but honestly they're delicious and filling for any meal of the day. I usually make these for a 2 p.m. brunch on the weekend -- they're great brain food in the middle of a long study session!
 
   <p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-left: 17%; margin-right: 2%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos-unrolled.jpg?raw=true"  style="width: 100%">Evenly divide the filling.</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 17%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg?raw=true" style="width: 100%">Roll and enjoy!</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 17%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg?raw=true" style="width: 100%">Roll and enjoy! <br> <br> </p>
 <br><br><br><br>
 
 ---
