@@ -24,7 +24,7 @@ Ingredients:
 * 5 "dashes" cayenne pepper
 
 Directions:
-1. Cut the avocados in half. Remove the pit, and score the inside of each avocado half with a knife in a fine grid pattern. Scoop out the flesh with a spoon, and place into a bowl./li>
+1. Cut the avocados in half. Remove the pit, and score the inside of each avocado half with a knife in a fine grid pattern. Scoop out the flesh with a spoon, and place into a bowl.
 2. Add the lime juice, and mix/mash lightly with a fork. Don't overmash!
 3. Add the tomato and red onion, and then mix again.
 4. Add the salt, chili powder, and cayenne pepper. Stir again to combine and and create the prefectly smooth yet chunky texture.
