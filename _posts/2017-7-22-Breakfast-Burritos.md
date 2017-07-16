@@ -7,7 +7,7 @@ This recipe is very tasty, but I honestly like it most because of how easy it is
 
 Using a communal kitchen in my dorm, I went from gathering ingredients from my room to fully cleaned up and having a hot meal in 20 minutes. They may technically be breakfast burritos because they're filled with fluffy scrambled eggs, but honestly they're delicious and filling for any meal of the day. I usually make these for a 2 p.m. brunch on the weekend -- they're great brain food in the middle of a long study session!
 
-Servings: 1
+Servings: 2
 
 Ingredients:
 * 2 8-inch flour tortillas
