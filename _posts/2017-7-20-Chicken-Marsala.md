@@ -7,6 +7,12 @@ A traditional dish, simplified. I'm always up for delicious and quick food.
 
 But for this recipe, you don't even need much to serve it - a bowl, a fork, and you're good to go. What else is there to want in a meal when you have chicken - that you can pull apart with your fork - smothered in buttery mushrooms and a luscious marsala wine sauce? Nothing comes to my mind.
 
+<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-left: 17%; margin-right: 2%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/chicken-marsala-pressure-cooker.jpg?raw=true" style="width: 100%">Freshly pressure cooked.</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 17%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/chicken-marsala-square.jpg?raw=true" style="width: 100%">Time to dig in!<br><br></p>
+
+<hr>
+
+
 Servings: 3-6 (depending on how hungry you are!)
 
 Ingredients:
