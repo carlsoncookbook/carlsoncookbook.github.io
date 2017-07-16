@@ -32,7 +32,6 @@ Directions:
 
 Note: I often wrap the burritos together in the foil, and then clean up any dishes before eating. They stay nice and warm together, and then there's nothing left to do but enjoy your tasty food afterwards! 
 
-<a float="center">
-  <img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos-unrolled.jpg?raw=true" class="singleBottomPostImage">
-  <img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg?raw=true" class="singleBottomPostImage">
-  </a>
+  
+  <p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-left: 17%; margin-right: 2%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg?raw=true"  style="width: 100%">Evenly divide the filling.</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 17%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg?raw=true" style="width: 100%">Roll and enjoy!</p>
