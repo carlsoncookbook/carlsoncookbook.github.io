@@ -34,4 +34,4 @@ Note: I often wrap the burritos together in the foil, and then clean up any dish
 
 ![Burritos]({{ site.baseurl }}/images/any-time-of-day-burritos.jpg)
 
-<img src="https://github.com/carlsonkellie/College-Cravings/images/any-time-of-day-burritos.jpg" alt="Burritos" style="width:60%;"/>
+<img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg?raw=true" alt="Burritos" style="width:60%;"/>
