@@ -10,7 +10,7 @@ It's simpler than a lot of other shrimp toast recipes I've seen, especially in t
 <p style="float: left; font-size: 9pt; text-align: center; width: 23.5%; margin-right: 2%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/shrimp_toast_puree.jpg?raw=true" style="width: 100%">Making the shrimp puree.</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 23.5%; margin-right: 2%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/shrimp_toast_triangles.jpg?raw=true" style="width: 100%">Triangles are assembled!</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 23.5%; margin-right: 2%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/shrimp_toast_frying.jpg?raw=true" style="width: 100%">Frying to golden perfection.</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 23.5%; margin-right: 0%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/shrimp_toast_plated.jpg?raw=true" style="width: 100%">Frying to golden perfection.<br> <br> </p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 23.5%; margin-right: 0%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/shrimp_toast_plated.jpg?raw=true" style="width: 100%">Ready to eat!.<br> <br> </p>
 
 ---
 
