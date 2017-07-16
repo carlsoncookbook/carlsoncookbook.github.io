@@ -3,7 +3,9 @@ layout: post
 title: Chicken Marsala
 ---
 
-A traditional dish, simplified. I'm always up for delicious and quick food. But for this recipe, you don't even need much to serve it - a bowl, a fork, and you're good to go. What else is there to want in a meal when you have chicken - that you can pull apart with your fork - smothered in buttery mushrooms and a luscious marsala wine sauce? Nothing comes to my mind.
+A traditional dish, simplified. I'm always up for delicious and quick food. 
+
+But for this recipe, you don't even need much to serve it - a bowl, a fork, and you're good to go. What else is there to want in a meal when you have chicken - that you can pull apart with your fork - smothered in buttery mushrooms and a luscious marsala wine sauce? Nothing comes to my mind.
 
 Servings: 3-6 (depending on how hungry you are!)
 
