@@ -7,6 +7,11 @@ I love risotto. Come on, it's finished with butter and cheese -- what's not to l
 
 For about four years, I've made risotto the traditional way, meaning I've stood at the stovetop for about two hours, gradually adding the liquid and stirring for an eternity. But recently, I discovered the magic of risotto in a pressure cooker. The prep time stays the same, but the rest is reduced to less than 15 minutes in the pressure cooker. Is it the same? Not exactly, but it's still 10/10 delicious and can be made without needing an afternoon free for cooking, and that's definitely worth it to me.
 
+<p style="float:center; font-size: 9pt; text-align: center; width: 50%; margin-left: 25%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/chicken-pancetta-risotto.png?raw=true">Perfect Italian Comfort Food<br><br></p>
+
+<hr>
+
+
 Servings: 4 (with plenty of leftovers!)
 
 Ingredients:
