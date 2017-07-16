@@ -2,10 +2,11 @@
 layout: post
 title: You're up and running!
 ---
-Trying to get a post to work?
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Welcome to my blog, College Cravings! 
+
+I'm Kellie, a nerdy computer science student who loves to experiment with food and express my creativity in the kitchen. I put together this website in one weekend, so I'm excited to see it where it will go from here!
+
+I hope to fill this website predominantly with a collection of college student friendly recipes (and mouth watering photographs of said food), but also with some dishes that I enjoy making at home. I'm not a professional, but I am an avid watcher of Buzzfeed Food videos. I have fun with it and I hope you will too!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
