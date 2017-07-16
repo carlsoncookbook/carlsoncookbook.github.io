@@ -2,9 +2,10 @@
 layout: post
 title: Chicken Pancetta Risotto
 ---
-Trying to get a second post to work?
 
-I love risotto. Come on, it's finished with butter and cheese -- what's not to like about that? For about four years, I've made risotto the traditional way, meaning I've stood at the stovetop for about two hours, gradually adding the liquid and stirring for an eternity. But recently, I discovered the magic of risotto in a pressure cooker. The prep time stays the same, but the rest is reduced to less than 15 minutes in the pressure cooker. Is it the same? Not exactly, but it's still 10/10 delicious and can be made without needing an afternoon free for cooking, and that's definitely worth it to me.
+I love risotto. Come on, it's finished with butter and cheese -- what's not to like about that? 
+
+For about four years, I've made risotto the traditional way, meaning I've stood at the stovetop for about two hours, gradually adding the liquid and stirring for an eternity. But recently, I discovered the magic of risotto in a pressure cooker. The prep time stays the same, but the rest is reduced to less than 15 minutes in the pressure cooker. Is it the same? Not exactly, but it's still 10/10 delicious and can be made without needing an afternoon free for cooking, and that's definitely worth it to me.
 
 Servings: 4 (with plenty of leftovers!)
 
