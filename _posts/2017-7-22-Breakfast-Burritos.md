@@ -31,3 +31,5 @@ Directions:
 10. Fold and roll your burritos, and enjoy!
 
 Note: I often wrap the burritos together in the foil, and then clean up any dishes before eating. They stay nice and warm together, and then there's nothing left to do but enjoy your tasty food afterwards! 
+
+![_config.yml]({{ site.baseurl }}/images/any-time-of-day-burritos.png)
