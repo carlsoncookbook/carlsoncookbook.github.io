@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Yummy Potatoes
+image: images/yummy-potatoes.jpeg
 ---
 
 First of all, please pardon the cheesy name -- I made up this recipe several years ago, and somehow, this just became the recipe name for my family. 
