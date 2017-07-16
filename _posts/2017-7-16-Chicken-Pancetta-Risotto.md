@@ -12,7 +12,7 @@ Servings: 4 (with plenty of leftovers!)
 Ingredients:
 * 6 boneless skinless chicken thighs, diced into large cubes (about 1 inch)
 * Salt
-* Coarsly ground black pepper
+* Coarsely ground black pepper
 * 4 tablespoons unsalted butter
 * 1 tablespoon extra virgin olive oil
 * 1 onion, diced
