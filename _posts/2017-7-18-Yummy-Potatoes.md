@@ -3,7 +3,9 @@ layout: post
 title: Yummy Potatoes
 ---
 
-First of all, please pardon the cheesy name -- I made up this recipe several years ago, and somehow, this just became the recipe name for my family. But I do assure you they are quite yummy! They're quite versatile, as simply with a different slicing technique, they can be transformed from breakfast potatoes to home fries. They're a mouth-watering side dish for any meal, any time of day (and I can personally attest that any leftovers are certainly able to be used later as a delicious snack).
+First of all, please pardon the cheesy name -- I made up this recipe several years ago, and somehow, this just became the recipe name for my family. 
+
+But I do assure you they are quite yummy! They're quite versatile, as simply with a different slicing technique, they can be transformed from breakfast potatoes to home fries. They're a mouth-watering side dish for any meal, any time of day (and I can personally attest that any leftovers are certainly able to be used later as a delicious snack).
 
 Servings: 4
 
