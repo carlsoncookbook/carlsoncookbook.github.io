@@ -5,9 +5,9 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post" display="inline-flex">
+    <article class="post" display="inline-flex" align-content="space-between" justify-content="space-between" flex-direction="row">
       
-      <div class="flexText" align-content="space-between" justify-content="space-between">
+      <div class="flexText" >
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
       
       <div class="entry">
