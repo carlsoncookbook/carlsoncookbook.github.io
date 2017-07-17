@@ -9,14 +9,15 @@ layout: default
       <div display="flex" flex-direction="column" align-items="center" align-content="center" justify-content="center" >
       <img src= "{{ post.image }}" width="20%" align="right" class="listImage">
       </div>
-      <span width="70%">
+      <div width="70%">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
       
       <div class="entry">
           {{post.excerpt}}
       </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> </span>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> 
+      </div>
     </article>
   
   {% endfor %}
