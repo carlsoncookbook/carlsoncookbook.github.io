@@ -6,10 +6,8 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post" >
-      <div display="inline-block" align="right" vertical-align="middle" width="20%">
       <img src= "{{ post.image }}" align="right" vertical-align="middle" width="20%">
-      </div>
-      <div width="70%" height="100%" display="inline-block">
+      <div width="70%" margin-right="25px" display="inline-block">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
       
       <div class="entry">
