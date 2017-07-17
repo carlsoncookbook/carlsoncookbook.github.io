@@ -6,12 +6,12 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post" >
-      
-      
+      <img src= "{{ post.image }}" display="inline-block" width="20%" align="right" margin-top="20px">
+      <span width="70%">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
       
-      <img src= "{{ post.image }}" display="inline-block" width="20%" align="right" margin-right="10%">
-      <span width="70%">
+      
+      
       <div class="entry">
           {{post.excerpt}}
       </div>
