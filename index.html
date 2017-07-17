@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -6,17 +7,15 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post" >
-      
-      <div display="inline-block" float="left" width="70%">
+      <img src= "{{ post.image }}" width="20%" align="right" class="listImage">
+      <span width="70%">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
       
       <div class="entry">
           {{post.excerpt}}
       </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> 
-      </div>
-      <img src= "{{ post.image }}" float="right" display="inline-block" width="20%">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> </span>
     </article>
   
   {% endfor %}
