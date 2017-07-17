@@ -5,18 +5,16 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post" width="70%">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
 
       <div class="entry">
-          <span> {width="60%" {post.excerpt}} <img src= "{{ post.image }}" display="inline-block" width="20%" float="right" margin-right="10%"> </span>
-        
+          {{post.excerpt}}
       </div>
-      
-      
-      
+
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+  <img src= "{{ post.image }}" display="inline-block" width="20%" float="right" margin-right="10%">
   {% endfor %}
 </div>
