@@ -115,10 +115,14 @@ img {
   flex: 1;
   justify-content: center;
   flex-direction: column;
+  align-self: center;
+  flex-grow: 1;
+  flex-shrink: 4;
 }
 
 .flexText {
-	flex: 4;
+  flex-grow: 4;
+  flex-shrink: 1;
 }
 
 // Fixes images in popup boxes from Google Translate
