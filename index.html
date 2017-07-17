@@ -6,10 +6,10 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post" >
-      <div display="flex" flex-direction="column" align-items="center" align-content="center" justify-content="center" >
+      <div display="flex" flex-direction="column" align-items="center" align-content="center" justify-content="center" height="100%">
       <img src= "{{ post.image }}" width="20%" align="right" class="listImage">
       </div>
-      <div width="70%">
+      <div width="70%" height="100%">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
       
       <div class="entry">
