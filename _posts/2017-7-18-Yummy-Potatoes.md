@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yummy Potatoes
-image: images/yummy-potatoes.jpeg
+image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/yummy-potatoes.jpeg?raw=true
 ---
 
 First of all, please pardon the cheesy name -- I made up this recipe several years ago, and somehow, this just became the recipe name for my family. 
