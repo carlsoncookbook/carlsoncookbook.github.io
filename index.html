@@ -5,19 +5,18 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post" display="flex" flex-direction="row">
+    <article class="post" display="inline-flex">
       
-      <div width="80%">
+      <div class="flexText">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
-      
-      
       
       <div class="entry">
           {{post.excerpt}}
       </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> </div>
-      <img src= "{{ post.image }}" width="20%" align="right" class="listImage" width="20%">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> 
+      </div>
+      <img src= "{{ post.image }}" class="flexImage">
     </article>
   
   {% endfor %}
