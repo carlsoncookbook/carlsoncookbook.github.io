@@ -5,9 +5,9 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post" display="inline-flex" align-content="space-between" justify-content="space-between" flex-direction="row">
+    <article class="post" >
       
-      <div class="flexText" display="inline-block">
+      <div display="inline-block" float="left">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
       
       <div class="entry">
@@ -16,7 +16,7 @@ layout: default
 
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> 
       </div>
-      <img src= "{{ post.image }}" class="flexImage" display="inline-block" float="right">
+      <img src= "{{ post.image }}" float="right" display="inline-block">
     </article>
   
   {% endfor %}
