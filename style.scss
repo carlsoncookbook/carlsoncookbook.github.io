@@ -114,9 +114,9 @@ img {
 .listImage {
   align: right;
   right: 10px;
-  padding: auto;
-  margin: auto;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 // Fixes images in popup boxes from Google Translate
