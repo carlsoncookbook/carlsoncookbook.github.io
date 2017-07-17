@@ -111,12 +111,14 @@ img {
   align: center;
 }
 
-.listImage {
-  align: right;
-  right: 10px;
-  display: flex;
+.flexImage {
+  flex: 1;
   justify-content: center;
   flex-direction: column;
+}
+
+.flexText {
+	flex: 4;
 }
 
 // Fixes images in popup boxes from Google Translate
