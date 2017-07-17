@@ -111,9 +111,12 @@ img {
   align: center;
 }
 
-.singleBottomPostImage {
-  width: 60%;
-  margin: auto;
+.listImage {
+  width: 20%;
+  align: right;
+  position: absolute;
+  right: 10%;
+  padding-top: 30px;
   display: inline-block;
 }
 
