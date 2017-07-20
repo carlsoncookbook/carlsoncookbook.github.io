@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Any-Time-of-Day Burritos
+image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/any-time-of-day-burritos.jpg?raw=true
 ---
 
 This recipe is very tasty, but I honestly like it most because of how easy it is. 
