@@ -7,7 +7,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
       
-      <div class="wrapper" display="inline-block" width="50px" margin-right="5%">
+      <div class="wrapper" display="inline" width="50px" margin-right="20px">
         
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}  </a></h1>
       
@@ -17,7 +17,7 @@ layout: default
 
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> 
       </div>
-      <img src= "{{ post.image }}" align="right" vertical-align="middle" width="20%" display="inline-block">
+      <img src= "{{ post.image }}" align="right" vertical-align="middle" width="20%" display="inline">
     </article>
   
   {% endfor %}
