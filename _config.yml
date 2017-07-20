@@ -9,7 +9,7 @@ name: College Cravings
 description: A College Foodie's Cookbook
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/carlsonkellie/College-Cravings/blob/master/images/College-Cravings-Whisk-Icon.png?raw=true
+avatar: https://github.com/carlsonkellie/collegecravings/blob/master/images/College-Cravings-Whisk-Icon.png?raw=true
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email: carlson.kellie.27@gmail.com
   facebook:
   flickr:
-  github: carlsonkellie/College-Cravings
+  github: carlsonkellie/collegecravings
   instagram:
   linkedin:
   pinterest:
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://carlsonkellie.github.io/College-Cravings
+url: http://carlsonkellie.github.io/collegecravings
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/College-Cravings"
+baseurl: "/collegecravings"
 
 #
 # !! You don't need to change any of the configuration flags below !!
