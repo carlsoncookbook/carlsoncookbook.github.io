@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chicken Pancetta Risotto
+image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/chicken-pancetta-risotto.png?raw=true
 ---
 
 I love risotto. Come on, it's finished with butter and cheese -- what's not to like about that? 
