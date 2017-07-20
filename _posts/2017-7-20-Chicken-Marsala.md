@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chicken Marsala
+image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/chicken-marsala-square.jpg?raw=true
 ---
 
 A traditional dish, simplified. I'm always up for delicious and quick food. 
