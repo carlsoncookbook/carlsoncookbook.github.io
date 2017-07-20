@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Strawberry Lemon Trifle
+image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/trifle-final.jpg?raw=true
 ---
 
-Simple, simple, simple, simple. Why? 
+There's nothing like biting into a succulent strawberry on a summer day. There's also nothing like a mouth-watering, no-bake dessert whose instructions can be summed up in one word -- simple. 
 
 The beautiful, irresistable layers consist of only 4 ingredients. But that's not to be mistaken for a boring dessert. The rich red, yellow, and white layers melt together with each bite. It's creamy yet light, and it won't weigh you down at the end of the meal. This strawberry lemon trifle is the perfect capstone to any holiday, or any day you'd like to make a holiday.
 
