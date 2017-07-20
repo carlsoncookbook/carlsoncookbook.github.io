@@ -111,10 +111,14 @@ img {
   align: center;
 }
 
-.wrapper {
-  display:inline;
+#wrapper {
+  display:inline-block;
   width: 50px;
   margin-right: 20px;	
+}
+
+.entry {
+	width: 300px;	
 }
 
 .flexImage {
