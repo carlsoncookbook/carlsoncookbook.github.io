@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chicken Nuggets with Parmesan Dip
-image: 
+image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/Chicken_Nugget.jpg?raw=true
 ---
 
 Servings: 4
