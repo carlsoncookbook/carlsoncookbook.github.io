@@ -1,4 +1,5 @@
-ngredients:
+---
+Ingredients:
 layout: post
 title: Chicken Cordon Bleu
 image: http://images.media-allrecipes.com/userphotos/720x405/4580487.jpg
