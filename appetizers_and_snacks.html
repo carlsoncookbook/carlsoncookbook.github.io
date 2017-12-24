@@ -3,7 +3,7 @@ layout: default
 ---
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<div class="apps_posts">
+<div class="appetizers_and_snacks">
   {% for post in site.appetizers_and_snacks %}
     <article class="post" style="display:flex; align-items:center;">
       
@@ -12,7 +12,7 @@ layout: default
       <h1 style="margin-top:0px;"><a href="{{ site.baseurl }}/appetizers_and_snacks{{ post.url }}">{{ post.title }}</a></h1>
       
       <div class="entry">
-          {{post.excerpt}} 
+          "/appetizers_and_snacks"{{post.excerpt}} 
       </div>
         <a href="{{ site.baseurl }}/appetizers_and_snacks{{ post.url }}" class="read-more">Read More</a> 
       </div>
