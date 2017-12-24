@@ -1,3 +1,4 @@
+---
 Ingredients:
 layout: post
 title: Italian Sausage Soup
