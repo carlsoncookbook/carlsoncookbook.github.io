@@ -1,3 +1,4 @@
+---
 layout: post
 title: Stuffed Mushrooms
 image: http://images.media-allrecipes.com/userphotos/720x405/4587625.jpg
