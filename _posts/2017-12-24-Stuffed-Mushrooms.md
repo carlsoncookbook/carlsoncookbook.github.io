@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stuffed Mushrooms
-image: http://images.media-allrecipes.com/userphotos/720x405/4587625.jpg
+image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/stuffed-mushrooms.jpg?raw=true
 category: apps
 ---
 
