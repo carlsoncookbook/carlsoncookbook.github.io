@@ -2,6 +2,7 @@
 layout: post
 title: Shrimp Toast
 image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/shrimp_toast_plated.jpg?raw=true
+category: apps
 ---
 
 I promise this recipe is mouthwateringly delicious. I've turned it into a family tradition that we make once a year. 
