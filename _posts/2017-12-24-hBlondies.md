@@ -2,7 +2,7 @@
 layout: post
 title: Blondies
 image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/blondies.jpg?raw=true
-category: dessert
+category: desserts
 ---
 
 

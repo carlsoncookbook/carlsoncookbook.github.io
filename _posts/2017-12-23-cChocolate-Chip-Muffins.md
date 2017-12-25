@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Chip Muffins
 image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/muffins.jpg?raw=true
-category: breads
+category: bread
 ---
 
 Delicious muffins
