@@ -15,7 +15,6 @@ The beautiful, irresistable layers consist of only 4 ingredients. But that's not
 
 ---
 
-
 Servings: 16 (approximately)
 
 Ingredients:
