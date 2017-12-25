@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chicken Corn Chowder
-image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/chicken-corn-chowder.jpg?raw=true
+image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/chicken-corn-chowder.png?raw=true
 category: soups
 ---
 
