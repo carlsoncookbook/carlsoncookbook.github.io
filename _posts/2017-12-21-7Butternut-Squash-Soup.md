@@ -5,11 +5,11 @@ image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/
 category: soups
 ---
 
-Simple, classic guacamole
+The color of this rich, creamy soup is sure to cheer you up!
 
-<p style="float:center; font-size: 9pt; text-align: center; width: 50%; margin-left: 25%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/guacamole.jpg?raw=true">Just need some tortilla chips!<br><br></p>
+<p style="float:center; font-size: 9pt; text-align: center; width: 50%; margin-left: 25%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/butternut-squash-soup.jpeg?raw=true">Butternut squash soup <br><br></p>
 
-<hr>
+<br>
 
 
 Yields: 6 servings
