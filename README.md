@@ -1,6 +1,8 @@
-Carlson Cookbook
+Carlson Cookbook - READ THIS AS A RAW FILE
 
-To make a post, create a markdown file (.md) in a text editor. 
+To make a post, create a markdown file (.md) in a text editor. The name should be YYYY-MM-DD-recipe-name.md
+To keep alphabetical order on the webpage, the recipe names must be listed in reverse alphabetical order (add a letter or number before the actual recipe name to flip the order). 
+
 Specify the layout, title, image, and category preceeded and followed by three dashes. The image should be a square image, uploaded to the images folder of this repository, and formatted as either a .jpg or .png (you can export an image to a png if it's a jpeg). The category should be one or more of apps/soups/main/bread/desserts/misc. Below is an example post, copy the format from the raw text. 
 
 Follow the three dashes by a short description, and then an image in an html tag if desired on the recipe page. See below for specific formatting. Follow this by three more dashes.
