@@ -5,6 +5,7 @@ layout: default
 
 <div class="appetizers_and_snacks">
   {% for post in site.appetizers_and_snacks %}
+  {% if post.category contains 'apps' %}
   <h1> potato </h1>
     <article class="post" style="display:flex; align-items:center;">
       
@@ -19,6 +20,6 @@ layout: default
       </div>
       <img src= "{{ post.image }}" style="display:inline-block; height:25%; width:25%; border-radius:10%;" align="right" vertical-align="middle" display="inline">
     </article>
-  
+  {% endif %}
   {% endfor %}
 </div>
