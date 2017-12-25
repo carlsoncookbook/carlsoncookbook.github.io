@@ -5,9 +5,7 @@ image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/guac
 category: apps
 ---
 
-Call me basic, but I do enjoy a good avocado. 
-
-That smooth, creamy, melt-in-your-mouth texture is perfect for a hot summer day. And what's better than turning avocados into guacamole? This is the way I like to do it, with juicy tomatoes and a little kick of heat, but all you really need is a ripe avocado and a pinch of salt. It's so simple, yet so delicious, perfect for a pick-me-up snack during exams or even just for a treat on weekends.
+Simple, classic guacamole
 
 <p style="float:center; font-size: 9pt; text-align: center; width: 50%; margin-left: 25%; margin-bottom: 0.5em;"><img src="https://github.com/carlsonkellie/College-Cravings/blob/master/images/guacamole.jpg?raw=true">Just need some tortilla chips!<br><br></p>
 
