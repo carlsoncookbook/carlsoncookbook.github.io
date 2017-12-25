@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tomato Basil Bisque
-image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/tomato-basil-bisque.jpeg?raw=true
+image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/tomato-basil-bisque.png?raw=true
 category: soups
 ---
 

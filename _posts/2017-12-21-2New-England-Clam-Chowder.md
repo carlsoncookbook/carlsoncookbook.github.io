@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New England Clam Chowder
-image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/new-england-clam-chowder.jpg?raw=true
+image: https://github.com/carlsoncookbook/carlsoncookbook.github.io/blob/master/images/new-england-clam-chowder.png?raw=true
 category: soups
 ---
 
