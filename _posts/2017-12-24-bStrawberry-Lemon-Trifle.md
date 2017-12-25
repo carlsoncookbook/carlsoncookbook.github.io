@@ -2,7 +2,7 @@
 layout: post
 title: Strawberry Lemon Trifle
 image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/trifle-final.jpg?raw=true
-category: dessert
+category: desserts
 ---
 
 There's nothing like biting into a succulent strawberry on a summer day. There's also nothing like a mouth-watering, no-bake dessert whose instructions can be summed up in one word -- simple. 

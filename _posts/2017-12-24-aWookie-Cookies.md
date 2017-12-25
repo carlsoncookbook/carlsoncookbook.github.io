@@ -2,7 +2,7 @@
 layout: post
 title: Wookie Cookies
 image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/wookie-cookies.jpg?raw=true
-category: dessert
+category: desserts
 ---
 
 The best chocolate chip cookies I've ever tasted. But where does the name come from, you ask? 
