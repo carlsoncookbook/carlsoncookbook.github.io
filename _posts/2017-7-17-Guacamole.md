@@ -2,6 +2,7 @@
 layout: post
 title: Guacamole
 image: https://github.com/carlsonkellie/College-Cravings/blob/master/images/guacamole.jpg?raw=true
+category: apps
 ---
 
 Call me basic, but I do enjoy a good avocado. 
