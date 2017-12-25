@@ -8,7 +8,7 @@ category: desserts
 
 Lighter side of brownies
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 0%; margin-bottom: 0.5em;"><img src="http://images.media-allrecipes.com/userphotos/720x405/4808762.jpg" style="width: 100%">Blondies<br> <br></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 10%; margin-bottom: 0.5em;"><img src="http://images.media-allrecipes.com/userphotos/720x405/4808762.jpg" style="width: 100%">Blondies<br> <br></p>
 
 ---
 
