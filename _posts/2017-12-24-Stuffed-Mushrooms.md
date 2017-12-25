@@ -5,6 +5,8 @@ image: http://images.media-allrecipes.com/userphotos/720x405/4587625.jpg
 category: apps
 ---
 
+Cream cheese stuffed mushrooms
+
  <p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 0%; margin-bottom: 0.5em;"><img src="http://images.media-allrecipes.com/userphotos/720x405/414837.jpg" style="width: 100%">Stuffed mushrooms. <br> <br></p> 
 
 <hr>
