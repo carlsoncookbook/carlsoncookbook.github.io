@@ -7,7 +7,7 @@ category: main
 
 Easy Italian casserole
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 20%; margin-bottom: 0.5em;"><img src="http://images.media-allrecipes.com/userphotos/720x405/4567069.jpg" style="width: 100%">Bruschetta Chicken Bake <br> <br></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 32%; margin-right: 10%; margin-bottom: 0.5em;"><img src="http://images.media-allrecipes.com/userphotos/720x405/4567069.jpg" style="width: 100%">Bruschetta Chicken Bake <br> <br></p>
 
 ---
 
