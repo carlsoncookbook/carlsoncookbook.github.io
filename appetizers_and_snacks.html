@@ -4,7 +4,6 @@ layout: default
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <div class="posts">
-  {% assign sorted_posts = site.categories.apps | sort: post.title %}
   {% for app in site.categories.apps %}
     <article class="post" style="display:flex; align-items:center;">
       
